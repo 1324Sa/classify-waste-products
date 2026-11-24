@@ -1,0 +1,9 @@
+# Dataset and trained models are large - do not upload them
+o-vs-r-split/
+*.zip
+*.keras
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
